@@ -1,6 +1,9 @@
-# RoadStar Cars Dealership
+# xrwvm-fullstack_developer_capstone
 
-RoadStar is a full-stack dealership capstone application built with Django, SQLite, and React.
+## Project name: fullstack_developer_capstone
+
+RoadStar is a full-stack dealership capstone application built with Django, SQLite, and React,
+submitted as the final project for the Full Stack Application Development Capstone course.
 Visitors can browse and filter nationwide dealers, read dealer reviews, create an account,
 sign in, and submit a sentiment-tagged review of a dealership.
 
